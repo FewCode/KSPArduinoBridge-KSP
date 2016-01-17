@@ -1,4 +1,0 @@
-e:\users\fewcode\documents\visual studio 2015\Projects\KSPArduinoBridge\KSPArduinoBridge\bin\Release\KSPArduinoBridge.dll
-e:\users\fewcode\documents\visual studio 2015\Projects\KSPArduinoBridge\KSPArduinoBridge\obj\Release\KSPArduinoBridge.dll
-C:\Program Files (x86)\Steam\steamapps\common\Kerbal Space Program\GameData\KSPArduinoBridge\KSPArduinoBridge.dll
-e:\users\fewcode\documents\visual studio 2015\Projects\KSPArduinoBridge\KSPArduinoBridge\obj\Release\KSPArduinoBridge.csprojResolveAssemblyReference.cache
