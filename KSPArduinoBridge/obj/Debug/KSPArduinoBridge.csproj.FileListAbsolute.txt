@@ -1,0 +1,14 @@
+e:\users\fewcode\documents\visual studio 2015\Projects\KSPArduinoBridge\KSPArduinoBridge\bin\Debug\KSPArduinoBridge.dll
+e:\users\fewcode\documents\visual studio 2015\Projects\KSPArduinoBridge\KSPArduinoBridge\bin\Debug\KSPArduinoBridge.pdb
+e:\users\fewcode\documents\visual studio 2015\Projects\KSPArduinoBridge\KSPArduinoBridge\bin\Debug\Assembly-CSharp.dll
+e:\users\fewcode\documents\visual studio 2015\Projects\KSPArduinoBridge\KSPArduinoBridge\bin\Debug\UnityEngine.dll
+e:\users\fewcode\documents\visual studio 2015\Projects\KSPArduinoBridge\KSPArduinoBridge\bin\Debug\Assembly-CSharp-firstpass.dll
+e:\users\fewcode\documents\visual studio 2015\Projects\KSPArduinoBridge\KSPArduinoBridge\bin\Debug\TDx.TDxInput.dll
+e:\users\fewcode\documents\visual studio 2015\Projects\KSPArduinoBridge\KSPArduinoBridge\bin\Debug\TrackIRUnity.dll
+e:\users\fewcode\documents\visual studio 2015\Projects\KSPArduinoBridge\KSPArduinoBridge\bin\Debug\Mono.Cecil.dll
+e:\users\fewcode\documents\visual studio 2015\Projects\KSPArduinoBridge\KSPArduinoBridge\bin\Debug\Mono.Security.dll
+e:\users\fewcode\documents\visual studio 2015\Projects\KSPArduinoBridge\KSPArduinoBridge\obj\Debug\KSPArduinoBridge.csprojResolveAssemblyReference.cache
+e:\users\fewcode\documents\visual studio 2015\Projects\KSPArduinoBridge\KSPArduinoBridge\obj\Debug\KSPArduinoBridge.dll
+e:\users\fewcode\documents\visual studio 2015\Projects\KSPArduinoBridge\KSPArduinoBridge\obj\Debug\KSPArduinoBridge.pdb
+C:\Program Files (x86)\Steam\steamapps\common\Kerbal Space Program\GameData\KSPArduinoBridge\KSPArduinoBridge.dll
+C:\Program Files (x86)\Steam\steamapps\common\Kerbal Space Program\GameData\KSPArduinoBridge\KSPArduinoBridge.pdb
